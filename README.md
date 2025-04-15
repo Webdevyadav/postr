@@ -94,13 +94,6 @@ postr/
 - **Mobile Applications**: Native apps for iOS and Android
 - **API Integration**: Connect with other professional tools and services
 
-## 👨‍💻 Developer
-
-Postr was designed and developed by **SACHIN YADAV**
-
-[![GitHub](https://img.shields.io/badge/GitHub-sachinyadav354-blue?logo=github)](https://github.com/sachinyadav354)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-SACHIN_YADAV-blue?logo=linkedin)](https://linkedin.com/in/sachinyadav)
-
 ## 📜 License
 
 This project is open source and available under the [MIT License](LICENSE). 
