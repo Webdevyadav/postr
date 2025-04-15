@@ -1,8 +1,6 @@
 # Postr - Professional Networking Platform
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sachinyadav354/postr/main/public/logo192.png" alt="Postr Logo" width="120" height="120">
-  <br />
   <h3>Modern Professional Networking for the Future</h3>
   
   [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](https://postr-professional-network.netlify.app/)
